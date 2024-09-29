@@ -1,7 +1,7 @@
-package com.github.olegshishkin.application.configuration;
+package com.github.olegshishkin.projectreactor.application.configuration;
 
-import com.github.olegshishkin.transaction.TransactionalDelegate;
-import com.github.olegshishkin.transaction.TxMono;
+import com.github.olegshishkin.projectreactor.projectreactor.transaction.TransactionalDelegate;
+import com.github.olegshishkin.projectreactor.projectreactor.transaction.TxMono;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

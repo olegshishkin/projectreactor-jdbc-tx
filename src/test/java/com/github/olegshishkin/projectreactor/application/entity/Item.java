@@ -1,4 +1,4 @@
-package com.github.olegshishkin.application.entity;
+package com.github.olegshishkin.projectreactor.application.entity;
 
 import static jakarta.persistence.GenerationType.IDENTITY;
 

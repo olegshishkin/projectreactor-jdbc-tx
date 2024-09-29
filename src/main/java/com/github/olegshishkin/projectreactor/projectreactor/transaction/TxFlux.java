@@ -1,4 +1,4 @@
-package com.github.olegshishkin.transaction;
+package com.github.olegshishkin.projectreactor.projectreactor.transaction;
 
 import java.util.function.Supplier;
 import java.util.stream.Stream;

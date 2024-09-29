@@ -1,8 +1,8 @@
-package com.github.olegshishkin.application.service;
+package com.github.olegshishkin.projectreactor.application.service;
 
-import com.github.olegshishkin.application.entity.Item;
-import com.github.olegshishkin.application.repository.ItemRepository;
-import com.github.olegshishkin.application.repository.ShopRepository;
+import com.github.olegshishkin.projectreactor.application.entity.Item;
+import com.github.olegshishkin.projectreactor.application.repository.ItemRepository;
+import com.github.olegshishkin.projectreactor.application.repository.ShopRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

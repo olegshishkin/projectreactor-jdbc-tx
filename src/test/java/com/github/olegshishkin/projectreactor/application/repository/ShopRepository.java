@@ -1,6 +1,6 @@
-package com.github.olegshishkin.application.repository;
+package com.github.olegshishkin.projectreactor.application.repository;
 
-import com.github.olegshishkin.application.entity.Shop;
+import com.github.olegshishkin.projectreactor.application.entity.Shop;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

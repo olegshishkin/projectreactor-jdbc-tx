@@ -1,6 +1,6 @@
-package com.github.olegshishkin.application.repository;
+package com.github.olegshishkin.projectreactor.application.repository;
 
-import com.github.olegshishkin.application.entity.Item;
+import com.github.olegshishkin.projectreactor.application.entity.Item;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;

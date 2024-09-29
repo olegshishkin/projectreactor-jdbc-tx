@@ -1,9 +1,9 @@
-package com.github.olegshishkin.application.service.reactive;
+package com.github.olegshishkin.projectreactor.application.service.reactive;
 
-import com.github.olegshishkin.application.entity.Item;
-import com.github.olegshishkin.application.repository.ItemRepository;
-import com.github.olegshishkin.application.repository.ShopRepository;
-import com.github.olegshishkin.transaction.TxMono;
+import com.github.olegshishkin.projectreactor.application.entity.Item;
+import com.github.olegshishkin.projectreactor.application.repository.ItemRepository;
+import com.github.olegshishkin.projectreactor.application.repository.ShopRepository;
+import com.github.olegshishkin.projectreactor.projectreactor.transaction.TxMono;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

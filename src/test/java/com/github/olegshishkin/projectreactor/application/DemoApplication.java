@@ -1,4 +1,4 @@
-package com.github.olegshishkin.application;
+package com.github.olegshishkin.projectreactor.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
